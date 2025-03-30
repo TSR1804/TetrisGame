@@ -8,7 +8,7 @@ Features:
 -Classic Tetris gameplay with falling tetrominoes  
 -Score tracking based on cleared rows  
 -Smooth movement and rotation of pieces  
--Simple and clean UI
+-Simple and clean UI  
 
 
 Controls

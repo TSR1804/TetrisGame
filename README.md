@@ -5,8 +5,11 @@ A simple browser-based Tetris game built using HTML, CSS, and JavaScript.
 Features:
 
 -Classic Tetris gameplay with falling tetrominoes
+
 -Score tracking based on cleared rows
+
 -Smooth movement and rotation of pieces
+
 -Simple and clean UI
 
 Controls

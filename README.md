@@ -2,7 +2,7 @@
 
 A simple browser-based Tetris game built using HTML, CSS, and JavaScript.
 
-Features
+Features:
 Classic Tetris gameplay with falling tetrominoes
 
 Score tracking based on cleared rows

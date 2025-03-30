@@ -1,5 +1,5 @@
-# TetrisGame
-Tetris Game 🎮
+# TetrisGame🎮
+
 A simple browser-based Tetris game built using HTML, CSS, and JavaScript.
 
 Features

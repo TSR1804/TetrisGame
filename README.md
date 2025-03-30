@@ -11,14 +11,13 @@ Features:
 -Simple and clean UI  
 
 
-Controls
-🔼 Arrow Up: Rotate the piece
+Controls:
 
-⬅️ Arrow Left: Move left
-
-➡️ Arrow Right: Move right
-
+🔼 Arrow Up: Rotate the piece  
+⬅️ Arrow Left: Move left  
+➡️ Arrow Right: Move right  
 ⬇️ Arrow Down: Move down faster
 
-How to Play
+How to Play?
+
 The goal is to stack and clear complete horizontal rows. Pieces fall automatically, and you can move and rotate them to fit. When the grid fills up, the game is over.
